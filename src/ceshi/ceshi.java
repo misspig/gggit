@@ -7,5 +7,7 @@ public class ceshi {
         System.out.println("333333");
         System.out.println("fenfenfen");
         System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
