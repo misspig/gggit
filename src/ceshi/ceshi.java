@@ -9,5 +9,6 @@ public class ceshi {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.prinltn("pull");
     }
 }
